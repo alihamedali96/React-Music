@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+#cards{
+  display:flex;
+}
+
+#filler{
+  min-height: 95vh;
+  text-align: center;
+  background: brown;
+}
+
+#filler2{
+  min-height: 95vh;
+  text-align: center;
+  background: yellow;
+}
